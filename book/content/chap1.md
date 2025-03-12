@@ -1,10 +1,19 @@
 # 1 - The language of Nature
-Why do I have to study physics, if I am interested in biology? 
 
-Predict the future
+### Why do I have to study physics?
+This is an incredibly common question among biology scholars, and one that few even asked me personally.
 
-### Quantitative descriptions
-aa
+    <iframe
+    width="560"   
+    height="315"
+    src="https://www.youtube.com/watch?v=IUN664s7N-c"
+    align="center"
+    frameborder="0"
+    allowfullscreen
+    ></iframe>
 
-### aaa
+Give yourself five minutes to think about this question: could biology exist without physics?
+
+
+### Learning objectives
 bbb
