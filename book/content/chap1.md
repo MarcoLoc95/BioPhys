@@ -5,7 +5,7 @@ This is an incredibly common question among biology scholars, and one that few e
 
 Instead of giving you an answer, I suggest you to watch the following video while you ask yourself: **can biology exist without physics?**
 
-<iframe src="https://www.veed.io/embed/a57731e8-1eaa-4965-b787-921f414291d9" width="100%" height="100%" frameborder="0" title="Why biophysics?" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IUN664s7N-c?si=KAfa9C4Wyx_v1RYu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Please take this question very seriously, because in the next couple of minutes you will decide whether all the effort is worth it or not. Because if biology can indeed exist without physics, then you have absolutely no reason to continue reading further. Pursuing the study of biophysics would then be completely meaningless, so you should have stopped reading by now.
 
