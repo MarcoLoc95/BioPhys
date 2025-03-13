@@ -26,12 +26,19 @@ sphinx:
         thebe: true
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
+    iframe_blend:          true # default value
+    iframe_saturation:     1.5 # default value
+    iframe_h5p_autoresize: true # default value
+    iframe_background:     "#ffffff" # default value
+    iframe_width:          calc(100% - 2.8rem) # default value
+    iframe_aspectratio:    auto 2 / 1 # default value
   extra_extensions:
     - sphinx.ext.imgconverter
     - jupyterbook_patches
     - download_link_replacer
     - sphinx.ext.extlinks
     - sphinx_image_inverter
+    - sphinx_iframes
 
 bibtex_bibfiles: 
   - references.bib
