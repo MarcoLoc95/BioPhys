@@ -81,7 +81,9 @@ it means that we know there is a causal relation between the kick and the motion
 
 ### Correlation does not imply causation
 
-Say you observe an interesting trend that everyone else have overlooked and decide to collect the data to prove it scientifically. In this case, 
+Say you observe an interesting trend that everyone else have overlooked: in the past years the fossil fuel use in Burundi has boomed, and every year more you hear parents named their child "Theodore". You decide to do a proper data collection and access the biggest library with this sort of useless information, internet.
+
+You plot the data and calculate the correlation coefficient:
 
 ```{figure} ../figures/chap1_spuriouscorr.svg
 ---
@@ -91,10 +93,18 @@ align: center
 ---
 ```
 
-correlation, sequence in time (that is, causes must occur before their proposed effect), a plausible physical or information-theoretical mechanism for an observed effect to follow from a possible cause, and eliminating the possibility of common and alternative ("special") causes. 
+The correlation is insanely high! You hear that, thanks to heavy subsidies to the renewable sector, fossil fuel use in Burundi will drop 50% next year. Do you think the popularity of the name "Theodore" will also drop 50%? How come this is not a law of Nature?
+
+Maybe you start to understand why the saying "correlation does not imply causation" is so popular among scientists. To establish causality, correlation is only one of the ingredients. What is also necessary is a sequence in time (effects must follow the cause and not the other way around), a plausible physical mechanism and the exclusion of possibile common causes. In this case, what is missing is the plausible physical mechanism behind this correlation: no physical theory could reliably predict the relation
+
+$$
+\text{Babies named "Theodore"} = k \cdot \text{Fossil fuel use in Burundi}, \qquad \text{where } k \text{ is a constant}
+$$
+
+Not only, but if we were to forbid by law naming children "Theodore", we would see the correlation deteriorate immediately. This is the main reason theoretical (bio)physics is just as important as experimental (bio)physics. Without a solid, sound, predictive model, experiments are only collections of data points. This came to be a recipe of success for physics: experimentalists try to find loopholes and counterexemples to break the models theoreticians make, and theoreticians try to extend the models to explain and predict the experimental outcomes. This apparent "fight" is only beneficial to scientific progress and has resulted in very solid theories and very advanced experimental setups. 
 
 ### A philosophical note and a suggestion for the future biophysicist
-The approach to physics (and science in general) described above is called **determinism**. Thanks to determinism and its accurate predictions, we could develop technology and control Nature to a level that was unthinkable to the early hominids on Earth. But one problem arises with it. In a utopic, deterministic world where we know everything about the state of the Universe at a certain time, every position and velocity of every particle, every charge, every force acting between every particle, then we can predict how the Universe will be in a minute, a year, a million years from now. Everything, including me writing this digital book and you reading it.
+The approach to physics described above is called **determinism**. Thanks to determinism and its accurate predictions, we could develop technology and control Nature to a level that was unthinkable to the early hominids on Earth. But one problem arises with it. In a utopic, deterministic world where we know everything about the state of the Universe at a certain time, every position and velocity of every particle, every charge, every force acting between every particle, then we can predict how the Universe will be in a minute, a year, a million years from now. Everything, including me writing this digital book and you reading it.
 
 Some philosophers got scared about this idea, and rightly so, because it would imply that free will does not exist. If in this very moment you decide to get up and get a glass of water, is it because you decided, or because a chain reaction of neurotransmitters triggered by a mix of internal and external stimuli made you get up? In the attempted rejection of pure determinism, some argued that laws of Nature were indeed true and fixed, but the *absolute knowledge* of a system with infinite accuracy and precision will always be impossible to achieve. Variations and unpredictability are possible because we lack absolute knowledge, and we can keep a sense of free will (even if it's not really there).
 
@@ -102,4 +112,6 @@ That was the debate until the advent of quantum mechanics. There, experiments co
 
 At this point, I hope you did not get a headache from this philosophical diversion. You can of course build your own beliefs about the nature of science, you can change your mind multiple times throughout your career and even allow yourself not to worry about it. But if you feel lost and seek my personal advice, let me reassure you that as a biologist or biophysicist you will encounter little to no quantum effects. What we know about biological systems so far is that they largely obey deterministic laws. Unpredictability arises from the **complexity** of the systems considered, were is absolute knowledge is unattainable. This complexity can explain both reproducible trends in biolog and variability in the outcomes. Your task as a biophysicist would probably involve modeling this complexity into simpler concepts, or explore it via experimental means. 
 
+### What is yet missing in biophysics
 
+aa
