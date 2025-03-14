@@ -30,6 +30,18 @@ Whenever you might feel discouraged, come back to this simple question and hold 
 Yes, the language of Nature can be challenging sometimes, and you'll find that very few people are fluent in it, and no one really a native speaker. But, once you start practicing it, it can also be extremely rewarding.
 
 ### Predicting the future
+As humans, we do not deal well with uncertainty. Actually, most of our lives is spent in the restless effort of reducing uncertainty: when we feel sleepy we resort to caffeine because we know it will help us be more alert in the following hours; when we sign a rental agreement we don't have to worry where we will sleep the next day; when we get into an affective relationship we don't have to question if we will be alone when in need.
+
+One hypothesis is that this has to do with our innate survival instinct, because if we can predict the future, then we can also avoid all the causes of our potential demise. While countless philosophers, psychologists and even theologists could debate forever about this aspect of the human nature, the pragmatic reader might want to know *if* and *how* we can actually predict the future.
+
+The good news is that we can. The bad news is that we can, but only to a certain extent. In fact, we constantly make predictions about what is to come and adjust our behaviour to such predictions. Look for instance at the following video:
+
+```{video} https://player.vimeo.com/video/762047045?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
+```
+
+How can the person on the skateboard not fall? Is it sheer luck, or are they skilled in estimating how much force they need to apply on the board, how the friction of the road affects the rotation of the wheels, how they need to counterbalance gravity, the tilt of the road and inertia? At the same time, we can safely assume that in an afternoon of training this person would have fallen at a certain point. That is because the predictions can never be perfect: the friction could slightly change due to extra sand under the wheels or the tilt could change at the road goes on.
+
+
 
 
 ### Learning objectives
