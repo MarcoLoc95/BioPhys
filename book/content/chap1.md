@@ -41,7 +41,11 @@ The good news is that we can. The bad news is that we can, but only to a certain
 
 How can the person on the skateboard not fall? Is it sheer luck, or are they skilled in estimating how much force they need to apply on the board, how the friction of the road affects the rotation of the wheels, how they need to counterbalance gravity, the tilt of the road and inertia? At the same time, we can safely assume that in an afternoon of training this person would have fallen at a certain point. That is because the predictions can never be perfect: the friction could slightly change due to extra sand under the wheels or the tilt could change at the road goes on.
 
+This is all possible thanks to the fact that in physics we can establish what is called **causality**. Causality is the relation between a cause and an effect. If you kick a ball (you apply a force $F$) 
 
+correlation, sequence in time (that is, causes must occur before their proposed effect), a plausible physical or information-theoretical mechanism for an observed effect to follow from a possible cause, and eliminating the possibility of common and alternative ("special") causes. 
+
+### Correlation does not imply causation
 
 
 ### Learning objectives
