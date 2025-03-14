@@ -6,7 +6,7 @@ This is an incredibly common question among biology scholars, and one that few e
 Instead of giving you an answer, I suggest you to watch the following video while you ask yourself: **can biology exist without physics?**
 
 
-```{video} https://jmp.sh/aW7GoAJP
+```{video} https://player.vimeo.com/video/1065802669?h=a3ea51e85c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
 ```
 
 
