@@ -41,15 +41,9 @@ The good news is that we can. The bad news is that we can, but only to a certain
 
 How can the person on the skateboard not fall? Is it sheer luck, or are they skilled in estimating how much force they need to apply on the board, how the friction of the road affects the rotation of the wheels, how they need to counterbalance gravity, the tilt of the road and inertia? At the same time, we can safely assume that in an afternoon of training this person would have fallen at a certain point. That is because the predictions can never be perfect: the friction could slightly change due to extra sand under the wheels or the tilt could change at the road goes on.
 
-Predicting the future is possible thanks to the fact that in physics we can establish what is called **causality**. Causality is the relation between a cause and an effect. If you kick a ball at rest it will start to move, depending on how heavy it is. The force of the kick $F$ is the cause, and the acceleration $a$ is the effect. When we write:
+Predicting the future is possible thanks to the fact that in physics we can establish what is called **causality**. Causality is the relation between a cause and an effect. The primary goal of physics is to find all the existing causalities and decode the *language of Nature* into simpler equations that we can use to make quantitative statements, whether about electromagnetic interactions, thermodynamical processes or the constituents that make up everything in the Universe.
 
-$$
-F = m \cdot a
-$$
-
-it means that we know there is a causal relation between the kick and the motion of the ball, and that we know exactly how much the ball will be accelerated if we know exactly the applied force. The primary goal of physics is to decode the *language of Nature* into simpler equations that we can use to make quantitative statements, whether it's about electromagnetic interactions, thermodynamical processes or the constituents that make up everything in the Universe.
-
-But how is causality established? To be able to write an exact equation we must have first conducted some experiments. Say we observed many balls of different weights being kicked at different strenghts, and measured the motion of the balls to extract the accelerations. 
+For instance, if you kick a ball at rest it will start to move, depending on how heavy it is. The force of the kick $F$ is the cause, and the acceleration $a$ is the effect. But how is this causality established? To be able to write an exact equation we must have first conducted some experiments. Say we observed many balls of different weights being kicked at different strenghts, and measured the motion of the balls to extract the accelerations:
 
 ```{figure} ../figures/chap1_dots.png
 ---
@@ -59,7 +53,7 @@ align: center
 ---
 ```
 
-aaa
+We definitely see a pattern there! Intuition tells us that if we take a force intermediate between two data points, the accelation will also be between those two points.
 
 ```{figure} ../figures/chap1_fits.png
 ---
@@ -69,12 +63,43 @@ align: center
 ---
 ```
 
+In this case, the relation appears to be linear: if we halve the force, the acceleration halves accordingly. If we double the force, similarly the acceleration doubles. On the contrary, for the mass there is an inverse relation: when the mass doubles, the acceleration halves. When the mass halves, the acceleration doubles.
 
+So, we establish that:
 
+$$
+a = \frac{F}{m}
+$$
+
+In other words, when we write:
+
+$$
+F = m \cdot a
+$$
+
+it means that we know there is a causal relation between the kick and the motion of the ball, and that we know exactly how much the ball will be accelerated if we know exactly the applied force. Now if we see a soccer player kicking a ball of known mass with a known force, we can predict the trajectory of the ball with extreme precision.
 
 ### Correlation does not imply causation
 
+Say you observe an interesting trend that everyone else have overlooked and decide to collect the data to prove it scientifically. In this case, 
+
+```{figure} ../figures/chap1_spuriouscorr.svg
+---
+width: 80%
+name: 1_spurious
+align: center
+---
+```
+
 correlation, sequence in time (that is, causes must occur before their proposed effect), a plausible physical or information-theoretical mechanism for an observed effect to follow from a possible cause, and eliminating the possibility of common and alternative ("special") causes. 
 
-### Learning objectives
-bbb
+### A philosophical note and a suggestion for the future biophysicist
+The approach to physics (and science in general) described above is called **determinism**. Thanks to determinism and its accurate predictions, we could develop technology and control Nature to a level that was unthinkable to the early hominids on Earth. But one problem arises with it. In a utopic, deterministic world where we know everything about the state of the Universe at a certain time, every position and velocity of every particle, every charge, every force acting between every particle, then we can predict how the Universe will be in a minute, a year, a million years from now. Everything, including me writing this digital book and you reading it.
+
+Some philosophers got scared about this idea, and rightly so, because it would imply that free will does not exist. If in this very moment you decide to get up and get a glass of water, is it because you decided, or because a chain reaction of neurotransmitters triggered by a mix of internal and external stimuli made you get up? In the attempted rejection of pure determinism, some argued that laws of Nature were indeed true and fixed, but the *absolute knowledge* of a system with infinite accuracy and precision will always be impossible to achieve. Variations and unpredictability are possible because we lack absolute knowledge, and we can keep a sense of free will (even if it's not really there).
+
+That was the debate until the advent of quantum mechanics. There, experiments conducted under the most controlled conditions appeared to give random results. Or, better said, the best achiavable prediction was a probability distribution. Scientists developed the theory behind quantum mechanics with precise equations and models, that would predict not the outcomes, but the probability distributions of the outcomes. Quantum mechanics gave more space to **probabilistic determinism**, allowing fundamental unpredictability and saving the concept of free will. Even with absolute knowledge about the Universe at a certain time, the future can diverge in infinite ways the further we progress in time. How do we explain this fundamental unpredictability, if the macroscopic world is still fairly predictable? Scientists do not agree about the correct interpretation of quantum mechanics and keep coming up with more or less convincing explanations.
+
+At this point, I hope you did not get a headache from this philosophical diversion. You can of course build your own beliefs about the nature of science, you can change your mind multiple times throughout your career and even allow yourself not to worry about it. But if you feel lost and seek my personal advice, let me reassure you that as a biologist or biophysicist you will encounter little to no quantum effects. What we know about biological systems so far is that they largely obey deterministic laws. Unpredictability arises from the **complexity** of the systems considered, were is absolute knowledge is unattainable. This complexity can explain both reproducible trends in biolog and variability in the outcomes. Your task as a biophysicist would probably involve modeling this complexity into simpler concepts, or explore it via experimental means. 
+
+
