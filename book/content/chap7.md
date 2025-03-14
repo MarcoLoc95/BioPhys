@@ -1,4 +1,4 @@
-# Thermodynamics: 
+# 7 - Thermodynamics: heat and disorder
 
 a
 

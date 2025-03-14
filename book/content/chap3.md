@@ -1,4 +1,4 @@
-# Dynamics: the cause of change
+# 3 - Dynamics: the cause of change
 
 What causes change? 
 

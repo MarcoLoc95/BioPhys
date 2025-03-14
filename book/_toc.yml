@@ -8,3 +8,10 @@ parts:
       sections:
       - file: content/chap1_1.md
     - file: content/chap2.md
+    - file: content/chap3.md
+    - file: content/chap4.md
+    - file: content/chap5.md
+    - file: content/chap6.md
+    - file: content/chap7.md
+    - file: content/chap8.md
+    
