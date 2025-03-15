@@ -1,2 +1,3 @@
 # Scaling laws
-a
+
+Scaling laws on Log-Log plots

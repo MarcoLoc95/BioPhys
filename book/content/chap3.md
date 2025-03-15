@@ -2,4 +2,6 @@
 
 What causes change? 
 
-### Learning objectives
+General intro on forces of different types
+
+Forces are always a vector
