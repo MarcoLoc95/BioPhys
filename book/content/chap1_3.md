@@ -25,9 +25,11 @@ SI notation: prefixes, error notation with significant digits, rounding
 >$$
 >
 >Correct? Well, let's calculate this formula explicity using $c=1$:
+>
 >$$
 > 1\,m = \frac{1\cdot 1\,s}{299792458} =frac{1}{299792458}\,s
 >$$
+>
 >Wait, what?!? The dimensions of length are now the same as those of time? Are time and space the same? Well, according to Einstein and every physicist working with relativity, yes. In relativity, space and time are intertwined into a single framework called spacetime, and the equations become much clearer when $c$ is set to 1. Think for example of the famous equation that relates the energy and the mass, $E=mc^2$: under this new convention, $E=m$. Indeed, mass is essentially "frozen energy" that can be released under certain conditions. In contexts like nuclear physics, this equivalence explain how stars shine and how nuclear reactors work.
 >
 >It may sound overcomplicated and unnecessary, and for biophysics it is. You may now take a breath of relief: we won't need to change the definitions of fundamental dimensions. But I think it's good, sometimes, to challenge your understanding of reality and Nature, hence this long digression.
