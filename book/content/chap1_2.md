@@ -3,7 +3,7 @@
 ### Types of errors
 
 ### How to report a measurement with its error and significant digits. Rounding rules.
-
+In fact, measurements without their range of validity are meaningless.
 + relative error
 
 

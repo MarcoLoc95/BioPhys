@@ -5,18 +5,20 @@ Quite some years ago, on a lovely afternoon, my mom and her sister were chatting
 Why did the pies turned out to be undistinguishable? The main reason is because the quantity of flour was not reported scientifically. Not only because it was not properly documented, but most importantly because the acceptable values were in a certain range. Imagine if one single gram of flour would dramatically change the taste of a dessert: restaurants would look more like high precision laboratories, and cooking at home would be a nightmare. Assuming that in my family's quirrel the truth was in the middle, and both variations would still be acceptable, the amount of flour should have been reported as following:
 
 $$
- m_{\text{flour}}=215\pm15\,g
+ m_{\text{flour}}=(215\pm 15) g
 $$
 
-Motivation: Can we measure the true value of a quantity?
+This notation unambiguously tells us that any value between $200$ and $230$ would result in the same outcome. This is what we call a **quantitative description**. It is easily testable: one could, for example, bake ten pies with varying flour amounts inside and outside this range to validate it. Reproducibility and predictability are the two main advantages of quantitative descriptions.
 
-reproducibility and predictability are advantages of quantitative descriptions
+Science is built of quantitative descriptions and could not live without them.  Thanks to quantitative descriptions we can aim at describing reality in an objective, undisputable way. The goal, in other words, is to get as close as possible to the *true value* of physical quantities.
 
-### Precision vs. accuracy
+Now the question is: can we measure the true value of a quantity?
 
-One of the most fundamental concepts in physics is the difference between accuracy and precision. 
+### Precision, accuracy and the true value
 
-```{figure} ../figures/chap1_accprec.svg
+One of the most fundamental concepts in physics is the difference between accuracy and precision. To understand it, look at the following illustration:
+
+```{figure} ../figures/chap1_accprec.png
 ---
 width: 80%
 name: 1_accprec
@@ -25,5 +27,8 @@ align: center
 Accuracy and precision are not the same thing (adapted from Jono Hey, [Sketchplanations](https://sketchplanations.com/accuracy-and-precision) CC BY-NC 4.0)
 ```
 
-### The true value (?) of a quantity
+Accuracy is how close a set of measurements is to the true value. Precision is how close the measurements are to each other. The difference is far from being just semantical: if we use the most sensitive kitchen scale but forget to tare it, the measurements will be precise (small deviation) but not accurate (far from the true value). 
+
+Now look at the following scatter plot:
+
 Is it precise? Is it accurate?
