@@ -1,5 +1,5 @@
 # Uncertainty and errors
-If there needs to be one thing you remember from this lesson, let it be this: every measurement or prediction in physics comes with an associated uncertainty. Always, no exception.
+If there needs to be one thing you must remember from this lesson, let it be this: every measurement or prediction in physics comes with an associated uncertainty. Always, no exception.
 
 In the context of quantitative measurements, the words **uncertainty** and **error** are sometimes used interchangeably. To be precise, error generally refers to the difference between a measured value and the true or accepted value, while uncertainty is an estimate of the range within which the true value is likely to lie, considering all known errors.
 

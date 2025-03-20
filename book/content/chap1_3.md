@@ -11,6 +11,7 @@ SI notation: prefixes, error notation with significant digits, rounding
 ### Dimensional analysis: calculation rules for units
 
 > **Philosophical digression**
+>
 >My friends studying physics keep japping about the speed of light in vacuum being equal to 1. What is this nonsense? Did they completely lose their minds?
 >
 >The answer is: maybe they did lose their minds (and it's not up to us to judge), but what they state is not false. The reason why they are right is a bit conceptually complicated, but the idea is that, once we establish that a physical quantity is an actual constant, completely independent from any circumstance, we can set that constant to **any** value. Think of this as choosing a conversion factor that makes the math easier. You’re not changing any physical reality, you’re just redefining how you measure things. Of course, all the derived quantities will have a different (but consistent) numerical values. 
