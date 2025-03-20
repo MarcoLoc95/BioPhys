@@ -14,7 +14,7 @@ Science is built of quantitative descriptions and could not live without them.  
 
 Now the question is: can we measure the true value of a quantity?
 
-### Precision, accuracy and the true value
+### Accuracy, precision and the true value
 
 One of the most fundamental concepts in physics is the difference between accuracy and precision. To understand it, look at the following illustration:
 
@@ -30,5 +30,25 @@ Accuracy and precision are not the same thing (adapted from Jono Hey, [Sketchpla
 Accuracy is how close a set of measurements is to the true value. Precision is how close the measurements are to each other. The difference is far from being just semantical: if we use the most sensitive kitchen scale but forget to tare it, the measurements will be precise (small deviation) but not accurate (far from the true value). 
 
 Now look at the following scatter plot:
+```{figure} ../figures/chap1_accprec1.png
+---
+width: 80%
+name: 1_accprec1
+align: center
+---
+```
+Are our measurements precise? Are they accurate?
 
-Is it precise? Is it accurate?
+The fact is, without prior knowledge regarding the true value, it's impossible to say. But let's now assume that the theory predicts the true value with a certain range of confidence (represented with the bullseye):
+
+```{figure} ../figures/chap1_accprec2.png
+---
+width: 80%
+name: 1_accprec2
+align: center
+---
+```
+
+Now we can say that the measurements were not accurate but had a reasonable precision. With this new information we can either argue that the theory is wrong, or that there is some kind of error in the measurements. This is still a ballpark consideration, and definitely not quantitative yet. 
+
+In the next section we will define uncertainty, what causes it, how to measure it and how to use it to make quantitative statements.
