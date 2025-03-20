@@ -1,10 +1,10 @@
 # Uncertainty and errors
 
+### Types of errors
+
 ### How to report a measurement with its error and significant digits. Rounding rules.
 
 + relative error
-
-### Types of errors
 
 
 ### Distribution of statistical errors
