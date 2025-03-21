@@ -79,6 +79,8 @@ If at this point you are still a bit confused, I suggest you to practice with so
 ### Statistics of random errors
 When we say "random" we do not imply "unquantifiable". If for example we consider the height distribution of various species of trees, we can still
 
+
+
 Wu, Y.; Zhang, X. Object-Based Tree Species Classification Using Airborne Hyperspectral Images and LiDAR Data. Forests 2020, 11, 32. https://doi.org/10.3390/f11010032 
 
 Probability to measure a certain value
