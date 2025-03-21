@@ -21,7 +21,7 @@ Errors are generally classified between these categories:
 - **Blunders**: These are careless human errors that happen randomly and result in (completely) off results. Compared to systematic errors, blunders are due to tiredness or negligence and generate biases hard to quantify. They can be minimized with good attention, careful practices and supervision of other colleagues who can point out the obvious mistakes. An example is pipetting $1\,mL$ of trypsin instead of $1\,\mu L$, or recording a $9$ instead of a $6$ onto a lab report.
 
 Some textbooks do not distinguish between systematic errors and blunders; here I want to stress that, while systematic errors can in some cases be corrected in retrospective, blunders should be categorically excluded from analysis.
-
+ 
 ### Instrument resolution
 Take a ruler and ask yourself: can I measure micrometers with this?
 
