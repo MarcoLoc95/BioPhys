@@ -76,7 +76,11 @@ Much better, isn't it?
 
 If at this point you are still a bit confused, I suggest you to practice with some exercises, because correctly reporting measurements and predictions is one of the most fundamental skills in physics.
 
-### Distribution of statistical errors
+### Statistics of random errors
+When we say "random" we do not imply "unquantifiable". If for example we consider the height distribution of various species of trees, we can still
+
+Wu, Y.; Zhang, X. Object-Based Tree Species Classification Using Airborne Hyperspectral Images and LiDAR Data. Forests 2020, 11, 32. https://doi.org/10.3390/f11010032 
+
 Probability to measure a certain value
 Probability density $p(x)$
 Mean, variance, standard deviation
@@ -86,12 +90,13 @@ Standard deviation of the mean: Central limit theorem
 Standard error of the mean$m$
 Relative error
 
-### Those darn outliers
-
-### What error to choose?
+### Which error to choose?
 Say the sensitivity of an instrument is $s$. By using this instrument we collect many data points and we calculate the standard deviation $\sigma$. Which value to use as an uncertainty?
 
-The short answer is: the largest between the two. That's because if the standard deviation is below the sensitivity, the individual variations may just be due to the imprecision of the instrument and not to a natural random variability. However, if the standard deviation is greater than the sensitivity, we know that the individual variations are all well measured with the instrument, despite its limited resolution.
+The short answer is: the largest value between $s$ and $\sigma$. That's because if the standard deviation is below the sensitivity, the individual variations may just be due to the imprecision of the instrument and not to a natural random variability. However, if the standard deviation is greater than the sensitivity, we know that the individual variations are all well measured with the instrument, despite its limited resolution.
+
+### Those darn outliers
+a
 
 # Error propagation
 Recap: Taylor expansion
