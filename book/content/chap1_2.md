@@ -58,13 +58,13 @@ align: center
 
 So, in our example, the first non-zero digit is 3, followed by a 5. We round up the 5, so the 3 becomes a 4, and we will finally have $e_x=0.04$.
 
-Now we look at the value $x$. If we cannot know the error better than a certain amount of significant digits, we certainly cannot know the value to that precision either. So we count how many digits \underline{the error} has after the dot, and round up or down the value $x$ to have the same amount of digits.
+Now we look at the value $x$. If we cannot know the error better than a certain amount of significant digits, we certainly cannot know the value to that precision either. So we count how many digits <ins>the error</ins> has after the dot, and round up or down the value $x$ to have the same amount of digits.
 
 The rounding rules there still hold:
 - If the first digit after the last significant digit is between 0 and 4 (included), then we **truncate** everything after the first digit;
 - If the first digit after the last significant digit is between 5 and 9 (included), then we **round up**, meaning we add 1 to the first digit and truncate all the following digits.
 
-In the example, $x=\mathbf{3.29}784625$ is marked in bold to have the same amount of digits as the error. Since the first not significant digit is a 7, we add one to the last significant digit. But because 9+1 becomes 10, the value to report will be $x=3.30$. The last zero is still significant, so we need to report it.
+In the example, $x=\mathbf{3.29}784625$ is marked in bold to have the same amount of digits as the error. Since the first non-significant digit is a 7, we add one to the last significant digit. But because 9+1 becomes 10, the value to report will be $x=3.30$. The last zero is still significant, so we need to report it.
 
 All in all, the correct way to report this quantity is:
 
