@@ -64,7 +64,7 @@ The rounding rules there still hold:
 - If the first digit after the last significant digit is between 0 and 4 (included), then we **truncate** everything after the first digit;
 - If the first digit after the last significant digit is between 5 and 9 (included), then we **round up**, meaning we add 1 to the first digit and truncate all the following digits.
 
-In the example, $x=$\textbf{$3.29$}$784625$ is marked in bold to have the same amount of digits as the error. Since the first not significant digit is a 7, we add one to the last significant digit. But because 9+1 becomes 10, the value to report will be $x=3.30$. The last zero is still significant, so we need to report it.
+In the example, $x=\mathbf{3.29}784625$ is marked in bold to have the same amount of digits as the error. Since the first not significant digit is a 7, we add one to the last significant digit. But because 9+1 becomes 10, the value to report will be $x=3.30$. The last zero is still significant, so we need to report it.
 
 All in all, the correct way to report this quantity is:
 
@@ -93,7 +93,7 @@ Say the sensitivity of an instrument is $s$. By using this instrument we collect
 
 The short answer is: the largest between the two. That's because if the standard deviation is below the sensitivity, the individual variations may just be due to the imprecision of the instrument and not to a natural random variability. However, if the standard deviation is greater than the sensitivity, we know that the individual variations are all well measured with the instrument, despite its limited resolution.
 
-### Error propagation
+# Error propagation
 Recap: Taylor expansion
 Taylor expansion of the velocity
 General formula
