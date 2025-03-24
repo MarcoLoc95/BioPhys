@@ -77,11 +77,15 @@ Much better, isn't it?
 If at this point you are still a bit confused, I suggest you to practice with some exercises, because correctly reporting measurements and predictions is one of the most fundamental skills in physics.
 
 ### Statistics of random errors
-When we say "random" we do not imply "unquantifiable". If for example we consider the height distribution of various species of trees, we can still
+When we say the outcome of a measurement is "random", we do not imply "unquantifiable". It is possible that the same object gives different outcomes when measured sequentially in time, or that within a group of objects the measured properties vary in a predetermined range, or both. What is the true value in these cases? What is the uncertainty? 
+
+Consider for example the height distribution of various tree species.
 
 
 
 Wu, Y.; Zhang, X. Object-Based Tree Species Classification Using Airborne Hyperspectral Images and LiDAR Data. Forests 2020, 11, 32. https://doi.org/10.3390/f11010032 
+
+We can still describe some general properties of each species, the most obvious being the average height and the spread of the distribution.
 
 Probability to measure a certain value
 Probability density $p(x)$

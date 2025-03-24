@@ -7,7 +7,7 @@ parts:
     - file: content/chap1.md
       sections:
       - file: content/chap1_1.md
-      - file: content/chap1_2.md
+      - file: content/chap1_2.ipynb
       - file: content/chap1_3.md
       - file: content/chap1_4.md
     - file: content/chap2.md
