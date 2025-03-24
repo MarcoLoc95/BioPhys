@@ -6,7 +6,7 @@ Derived units
 ### Orders of magnitude
 
 ### SI notation
-SI notation: prefixes, error notation with significant digits, rounding
+SI notation: prefixes, error notation with significant digits
 
 ### Dimensional analysis: calculation rules for units
 
