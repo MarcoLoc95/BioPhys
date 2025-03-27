@@ -9,7 +9,7 @@ Derived units
 SI notation: prefixes, error notation with significant digits
 
 ### Correctly reporting a measurement
-The usual way to report a physical quantity $X$ with its best estimate $x$ and its error $e_x$ is:
+We already mentioned that the way to report a physical quantity $X$ with its best estimate $x$ and its error $e_x$ is:
 
 $$
 X = x \pm e_x
