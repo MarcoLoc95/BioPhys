@@ -4,18 +4,31 @@ Is space the same as mass? Can I sum the time a biophysical process takes with t
 Intuition tells us that certain physical properties of Nature are different from each other, and to describe them clearly, physics has developed a precise language. In this section, we introduce two central ideas: **dimensions** (what we measure) and **units** (how we measure it).
 
 Dimensions describe physical characteristics of Nature. For example:
-- Length [L]: the measure of distance in space;
-- Time [T]: the measure of the duration between two events; 
-- Mass [M]: the measure of inertia (and gravitational attraction) of a body.
+- Length $[L]$: the measure of distance in space;
+- Time $[T]$: the measure of the duration between two events; 
+- Mass $[M]$: the measure of inertia (and gravitational attraction) of a body.
 In our notation, dimensions are represented by square brackets.
 
 Dimensions are measured in units. For example, length is typically measured in *meters* $m$ or multiples of it (unless you find yourself in the United States). 
 
 The difference between dimensions and units is that, while dimensions are unique, units are not. Think for example of all the ways you could measure distance: meters, feet, miles, light years, microns and so on.
-Contrary to dimensions, new units can also be invented, as long as they are well defined. I could say, for example, that a $Locarno$ is a unit of time, more precisely the time the author spent writing this book ($1\,Loc=8\cdot 10^6\,s$). We can then measure a lecture in fractions of $Loc$ and the duration of a Bachelor's degree in multiples of $Loc$. 
+Contrary to dimensions, new units can also be invented, as long as they are well defined. I could say, for example, that a $Locarno$ is a unit of time, more precisely the time the author spent writing this book:
+
+$$
+1\,Loc=8\cdot 10^6\,s
+$$
+
+With this definition, you could measure a lecture in fractions of a $Loc$ or even the duration of a Bachelor's degree in multiples of $Loc$, while the underlying dimension $[T]$ (time) would remain unchanged.
 
 ### Seven base quantities
-
+If across the globe we can speak the same scientific language, we have to thank the General Conference on Weights and Measures (French: *Conférence générale des poids et mesures*), which in the late 19th century brought together many international organisations standardise the way measurements were written and presented. Soon after the end of the World War II, the same organization agreed the existance of seven fundamental quantities, from which all the other could be derived:
+- Length (L): Meter (m)
+- Time (T): Second (s)
+- Mass (M): Kilogram (kg)
+- Electric current (I): Ampere (A)
+- Thermodynamic temperature (Θ): Kelvin (K)
+- Amount of substance (N): Mole (mol)
+- Luminous intensity (J): Candela (cd)
 
 ### Orders of magnitude
 
