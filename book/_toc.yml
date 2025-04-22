@@ -29,4 +29,5 @@ parts:
     - file: content/chap6.md
     - file: content/chap7.md
     - file: content/chap8.md
+    - file: content/rounding.md
     
